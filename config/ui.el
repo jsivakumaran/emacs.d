@@ -1,4 +1,5 @@
 ;; UI related configurations.
+;; This is where to change what emacs looks like when it loads up.
 
 (when (fboundp 'menu-bar-mode)
   (menu-bar-mode -1))
